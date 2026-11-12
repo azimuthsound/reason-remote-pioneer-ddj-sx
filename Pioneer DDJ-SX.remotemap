@@ -1,0 +1,33 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Pioneer
+Control Surface Model	DDJ-SX
+Map Version	4.4.5
+
+
+Scope	Propellerheads	Reason Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+// Map	Deck 1 Master BPM		Tempo
+// Map	Deck 1 Play		Play
+// Map	Deck 1 Stop		Stop
+
+Scope	Propellerheads	Reason Main Mixer Channel
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Channel 1 EQ Low		Rotary 1
+Map	Channel 1 EQ Mid		Rotary 2
+Map	Channel 1 EQ Hi		Rotary 3
+Map	Channel 1 Filter		Rotary 4
+Map	Channel 1 Fader		Rotary 5
+Map	Channel 1 Trim		Rotary 6
+
+
+Scope	Propellerheads	Combinator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Channel 1 EQ Low		Rotary 1
+Map	Channel 1 EQ Mid		Rotary 2
+Map	Channel 1 EQ Hi		Rotary 3
+Map	Channel 1 Filter		Rotary 4
+Map	Channel 1 Fader		Rotary 5
+Map	Channel 1 Trim		Rotary 6

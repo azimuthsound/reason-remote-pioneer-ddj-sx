@@ -1,0 +1,11 @@
+version={4,0,1}
+
+function remote_supported_control_surfaces()
+	local surfaces =		{
+			{ manufacturer="Pioneer", model="DDJ-SX",
+				source="Pioneer DDJ-SX.lua", picture="Pioneer DDJ-SX.png", 
+				in_ports={{description="In Port"}}, out_ports={{description="Out Port", optional=true}},
+				has_keyboard=true,
+				setup_info_text="" },
+		}	return surfaces
+end
